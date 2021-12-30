@@ -3,8 +3,8 @@
 import requests
 import urllib3
 urllib3.disable_warnings()
-import argparse # pylint: disable=C0413
-import sys # pylint: disable=C0413
+import argparse
+import sys
 
 # Global variables
 
